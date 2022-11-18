@@ -1,0 +1,59 @@
+<html>
+<title> table </title>
+<body>
+<CENTER>
+<h2> TABLE</h2>
+
+<TABLE BORDER=2 BGCOLOR="#fcc2ff" cellspacing="30" cellpadding=30>
+<TR BGCOLOR="#8372f2">
+<TD colspan="3" ALIGN="CENTER"> <FONT COLOR=YELLOW SIZE=+4> CARTOONS </FONT> </TD>
+</TR>
+<TR>
+
+
+
+
+<TD> <FONT COLOR=YELLOW> NAMES OF CARTOONS </FONT> </TD>
+<TD><FONT COLOR=YELLOW> NUMBER OF EPISODES </FONT> </TD>
+<TD><FONT COLOR=YELLOW> MAIN CHARACTER </FONT></TD>
+</TR>
+
+
+
+</TR>
+
+<TR BGCOLOR="#00ffac">
+<TD ROWSPAN="2"> <FONT COLOR=WHITE >SHINCHAN </FONT></TD>
+<TD>500</TD>
+<TD>KAZAMA</TD>
+
+</TR>
+
+
+
+
+
+
+
+<TR BGCOLOR="#00ffac">
+<TD> SHINCHAN</TD>
+<TD>HIMAWARI</TD>
+
+</TR>
+
+<TR BGCOLOR="#00ffac">
+<TD Background="tb.jpg"> <FONT COLOR=WHITE >DORAEMON </FONT></TD>
+<TD>500</TD>
+<TD>SUNEO</TD>
+
+</TR>
+
+
+
+
+
+
+</TABLE>
+</BODY>
+
+</html>
